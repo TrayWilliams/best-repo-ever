@@ -1,4 +1,4 @@
 # best-repo-ever
 
 Adding some content using my favorite text editor.
-Changes for new-branch-1
+Adding content for new-branch-2 and new-branch-1
